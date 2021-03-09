@@ -1,0 +1,15 @@
+.subtotal{
+  padding: 10px;
+}
+
+.checkout_button{
+  padding: 8px;
+  margin: 5px;
+  background-color: #00878a;
+  margin-top: 10px;
+  border: 1px solid;
+  border-color: #00878a #046769 #046769;
+  color: white;
+  font-family:cursive;
+  font-weight: 800;
+}
